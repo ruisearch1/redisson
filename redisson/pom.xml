@@ -26,7 +26,7 @@
         <!-- Spring Session version -->
         <spring-session.version>3.3.0</spring-session.version>
         <!-- Spring Boot versions -->
-        <spring-boot-actuator.version>3.2.5</spring-boot-actuator.version>
+        <spring-boot-actuator.version>3.4.10</spring-boot-actuator.version>
         <spring-boot-autoconfigure.version>3.3.1</spring-boot-autoconfigure.version>
     </properties>
 
